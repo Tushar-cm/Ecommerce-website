@@ -1,0 +1,12 @@
+{
+    "categories": [
+      { "id": 1, "name": "Electronics" },
+      { "id": 2, "name": "Clothing" }
+    ],
+    "products": [
+      { "id": 1, "name": "Laptop", "price": "₹50000", "category": "Electronics", "image": "url_to_image" },
+      { "id": 2, "name": "Smartphone", "price": "₹30000", "category": "Electronics", "image": "url_to_image" },
+      { "id": 3, "name": "T-shirt", "price": "₹450", "category": "Clothing", "image": "url_to_image" }
+    ]
+  }
+  
